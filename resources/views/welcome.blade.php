@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel indra Laravel coba-coba fin
+                    Laravel indra Laravel coba-coba fini
                 </div>
 
                 <div class="links">
